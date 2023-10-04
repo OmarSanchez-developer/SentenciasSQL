@@ -4,12 +4,12 @@ Nombre : autores
 */
 
 
-Nombre
-Genero
-Fecha de nacimiento
-País de Origen
+-- Nombre
+-- Genero
+-- Fecha de nacimiento
+-- País de Origen
 
-columna y el tipo de dato
+-- columna y el tipo de dato
 
 CREATE TABLE autores(
     autor_id INT,
